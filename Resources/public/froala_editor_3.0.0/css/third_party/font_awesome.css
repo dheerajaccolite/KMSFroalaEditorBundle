@@ -1,0 +1,35 @@
+.clearfix::after {
+  clear: both;
+  display: block;
+  content: "";
+  height: 0; }
+
+.hide-by-clipping {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0; }
+
+.fr-icons .fr-fa-icon {
+  display: inline-block;
+  width: 24px;
+  text-align: center;
+  vertical-align: middle;
+  font-size: 20px;
+  padding: 8px;
+  line-height: 1;
+  cursor: pointer;
+  font-weight: 400;
+  box-sizing: content-box; }
+.fr-icons .fr-fa-icon-category {
+  width: 46px;
+  height: 40px;
+  padding: 10px 12px; }
+  .fr-icons .fr-fa-icon-category span {
+    fill: #333333; }
+
+/*# sourceMappingURL=font_awesome.css.map */
