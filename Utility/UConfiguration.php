@@ -165,7 +165,7 @@
 
 		public static $OPTIONS_STRING_CUSTOM = array(
 			"customJS"          => null, //
-			"basePath"          => "/bundles/kmsfroalaeditor/froala_editor_3.0.0", //
+			"basePath"          => "/bundles/kmsfroalaeditor/froala_editor_3.0.0-beta.1", //
 			"imageUploadFolder" => "/upload", //
 			"imageUploadPath"   => null, //
 			"fileUploadFolder"  => "/upload", //
